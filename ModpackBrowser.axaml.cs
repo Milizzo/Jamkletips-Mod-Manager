@@ -101,6 +101,9 @@ public partial class ModpackBrowser : UserControl
 
         try
         {
+            // Modpacks are still WIP; throw an exception
+            throw new NotImplementedException("Modpacks are still a WIP feature.");
+            
             using var client = new ModrinthClient();
 
             var modpack = await client.Project.GetAsync(slug);
@@ -147,7 +150,7 @@ public partial class ModpackBrowser : UserControl
 
                 foreach (var modrinthFile in doc.RootElement.GetProperty("files").EnumerateArray())
                 {
-                    / Work on this
+                    // Work on this
                 }
             }
 
