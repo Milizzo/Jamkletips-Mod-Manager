@@ -1,0 +1,43 @@
+<UserControl
+    x:Class="Jamkletip_s_Mod_Manager.NewProfile"
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid RowDefinitions="*,Auto">
+        <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <StackPanel
+                    x:Name="ProfilesPanel"
+                    Margin="10"
+                    Spacing="5">
+
+                    <Button
+                        Name="BackButton"
+                        Width="150"
+                        Content="← Back" />
+                    <TextBox Name="NameBox" Watermark="Profile Name" />
+                    <TextBox Name="VersionBox" Watermark="Minecraft Version (e.g. 1.21.5)" />
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock
+                            Margin="0,0,10,0"
+                            VerticalAlignment="Center"
+                            Text="Loader:" />
+                        <Button
+                            Name="LoaderButton"
+                            Width="200"
+                            Content="Fabric" />
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+
+        <Button
+            Name="NextButton"
+            Grid.Row="1"
+            Width="300"
+            Margin="10"
+            HorizontalAlignment="Right"
+            HorizontalContentAlignment="Center"
+            Content="Create →" />
+    </Grid>
+
+</UserControl>

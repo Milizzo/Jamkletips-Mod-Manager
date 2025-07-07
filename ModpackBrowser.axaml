@@ -1,0 +1,15 @@
+<UserControl
+    x:Class="Jamkletip_s_Mod_Manager.ModpackBrowser"
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid RowDefinitions="Auto,Auto,*">
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Spacing="5" Margin="10,10,10,0">
+            <Button x:Name="BackButton" Content="← Back" Width="150" />
+            <TextBlock x:Name="Status" VerticalAlignment="Center" />
+        </StackPanel>
+        <TextBox Grid.Row="1" x:Name="SearchBox" Watermark="Search..." Margin="10,5,10,0" />
+        <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Auto">
+            <StackPanel x:Name="ModpacksPanel" Spacing="5" Margin="10,5,10,10" />
+        </ScrollViewer>
+    </Grid>
+</UserControl>

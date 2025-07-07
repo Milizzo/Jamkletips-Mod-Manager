@@ -1,0 +1,26 @@
+<Styles xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!--  Base button style  -->
+    <Style Selector="Button">
+        <Setter Property="Background" Value="#222" />
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+    <!--  Hover state  -->
+    <Style Selector="Button:pointerover /template/ ContentPresenter">
+        <Setter Property="Background" Value="#444" />
+    </Style>
+
+    <!--  Window style  -->
+    <Style Selector="Window">
+        <Setter Property="Background" Value="#111" />
+    </Style>
+
+    <Style Selector="TextBox">
+        <Setter Property="Background" Value="#111" />
+    </Style>
+
+    <Style Selector="TextBox:pointerover /template/ Border#PART_BorderElement">
+        <Setter Property="Background" Value="#222" />
+    </Style>
+</Styles>

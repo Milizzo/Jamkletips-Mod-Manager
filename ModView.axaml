@@ -1,0 +1,13 @@
+<UserControl
+    x:Class="Jamkletip_s_Mod_Manager.ModView"
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel x:Name="InfoPanel" Margin="10" Spacing="5">
+            <Button
+                x:Name="BackButton"
+                Width="300"
+                Content="← Back" />
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

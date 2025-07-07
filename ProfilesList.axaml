@@ -1,0 +1,8 @@
+<UserControl
+    x:Class="Jamkletip_s_Mod_Manager.ProfilesList"
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel x:Name="ProfilesPanel" Spacing="5" Margin="10" />
+    </ScrollViewer>
+</UserControl>
