@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jamkletip\'s Mod Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aa2aaa97eafdf3b3e0bd51752ca64069dd9815e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+193bc189494b2b32d96a2cdf666f2d0d81f20832")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jamkletip\'s Mod Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jamkletip\'s Mod Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
