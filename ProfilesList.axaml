@@ -2,7 +2,17 @@
     x:Class="Jamkletip_s_Mod_Manager.ProfilesList"
     xmlns="https://github.com/avaloniaui"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <ScrollViewer VerticalScrollBarVisibility="Auto">
-        <StackPanel x:Name="ProfilesPanel" Spacing="5" Margin="10" />
-    </ScrollViewer>
+    <Grid RowDefinitions="*,Auto">
+        <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto">
+            <StackPanel x:Name="ProfilesPanel" Spacing="5" Margin="10,10,10,0" />
+        </ScrollViewer>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="10" Spacing="5">
+            <Button Content="Fabric..." x:Name="FabricButton" />
+            <Button Content="Forge..." x:Name="ForgeButton" />
+            <Button Content="NeoForge..." x:Name="NeoForgeButton" />
+            <Button Content="Quilt..." x:Name="QuiltButton" />
+            <TextBlock Text="Note: Make sure Java is installed and has been added to PATH." VerticalAlignment="Center"
+                       Margin="5,0,0,0" />
+        </StackPanel>
+    </Grid>
 </UserControl>

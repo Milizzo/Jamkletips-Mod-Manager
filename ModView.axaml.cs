@@ -107,7 +107,7 @@ public partial class ModView : UserControl
         catch (Exception ex)
         {
             InfoPanel.Children.Clear();
-            InfoPanel.Children.Add(new TextBlock()
+            InfoPanel.Children.Add(new TextBlock
             {
                 Text = "Failed to load: " + ex.Message,
             });

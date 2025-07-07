@@ -28,4 +28,18 @@
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
+
+  <ItemGroup>
+    <None Update="loaders\fabric-installer-1.0.3.jar">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="loaders\quilt-installer-0.12.1.jar">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="loaders\fabric.jar" />
+    <None Remove="loaders\quilt.jar" />
+  </ItemGroup>
 </Project>
