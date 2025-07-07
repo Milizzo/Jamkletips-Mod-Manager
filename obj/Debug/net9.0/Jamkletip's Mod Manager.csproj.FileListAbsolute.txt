@@ -67,3 +67,4 @@
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Debug/net9.0/DialogHost.Avalonia.dll
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Debug/net9.0/MsBox.Avalonia.dll
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Debug/net9.0/Modrinth.Net.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Jamkletip's Mod Manager.sourcelink.json
