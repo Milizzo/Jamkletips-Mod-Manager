@@ -45,7 +45,7 @@ public partial class ProfileView : UserControl
 
                 UpdateUseButton();
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 UseButton.Content = "Failed";
             }

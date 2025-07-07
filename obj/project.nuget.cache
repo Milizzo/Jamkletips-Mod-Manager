@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RiIQv0zg2RI=",
+  "dgSpecHash": "alhe38jYj30=",
   "success": true,
   "projectFilePath": "/Users/milol/Documents/C#/Jamkletip's Mod Manager/Jamkletip's Mod Manager.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,10 @@
     "/Users/milol/.nuget/packages/skiasharp.nativeassets.webassembly/2.88.9/skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512",
     "/Users/milol/.nuget/packages/skiasharp.nativeassets.win32/2.88.9/skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
     "/Users/milol/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
-    "/Users/milol/.nuget/packages/tmds.dbus.protocol/0.21.2/tmds.dbus.protocol.0.21.2.nupkg.sha512"
+    "/Users/milol/.nuget/packages/tmds.dbus.protocol/0.21.2/tmds.dbus.protocol.0.21.2.nupkg.sha512",
+    "/Users/milol/.nuget/packages/microsoft.netcore.app.runtime.win-x64/9.0.5/microsoft.netcore.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "/Users/milol/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/9.0.5/microsoft.aspnetcore.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "/Users/milol/.nuget/packages/microsoft.netcore.app.host.win-x64/9.0.5/microsoft.netcore.app.host.win-x64.9.0.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -53,7 +53,7 @@ public partial class ProfilesList : UserControl
                     Verb = "open",
                 });
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 FabricButton.Content = "Failed to open";
             }
@@ -69,7 +69,7 @@ public partial class ProfilesList : UserControl
                     Verb = "open",
                 });
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 ForgeButton.Content = "Failed to open";
             }
@@ -85,7 +85,7 @@ public partial class ProfilesList : UserControl
                     Verb = "open",
                 });
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 NeoForgeButton.Content = "Failed to open";
             }
@@ -101,7 +101,7 @@ public partial class ProfilesList : UserControl
                     Verb = "open",
                 });
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 QuiltButton.Content = "Failed to open";
             }
