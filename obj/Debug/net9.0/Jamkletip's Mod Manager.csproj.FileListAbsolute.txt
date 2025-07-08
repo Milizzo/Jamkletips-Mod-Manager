@@ -58,8 +58,6 @@
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Avalonia/resources
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Jamkletip's Mod Manager.GeneratedMSBuildEditorConfig.editorconfig
-/Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Jamkletip's Mod Manager.AssemblyInfoInputs.cache
-/Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Jamkletip's Mod Manager.AssemblyInfo.cs
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Jamkletip's Mod Manager.csproj.CoreCompileInputs.cache
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Jamkletip's Mod Manager.sourcelink.json
 /Users/milol/Documents/C#/Jamkletip's Mod Manager/obj/Debug/net9.0/Jamkleti.94BA6710.Up2Date
