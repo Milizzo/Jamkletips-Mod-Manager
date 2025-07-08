@@ -1,0 +1,53 @@
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Jamkletip's Mod Manager
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Jamkletip's Mod Manager.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Jamkletip's Mod Manager.runtimeconfig.json
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Jamkletip's Mod Manager.pdb
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Base.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Controls.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.DesignerSupport.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Dialogs.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Markup.Xaml.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Markup.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Metal.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.MicroCom.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.OpenGL.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Vulkan.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Desktop.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Fonts.Inter.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.FreeDesktop.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Native.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Remote.Protocol.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Skia.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Themes.Fluent.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Win32.Automation.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.Win32.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Avalonia.X11.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/DialogHost.Avalonia.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/HarfBuzzSharp.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/MsBox.Avalonia.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/MicroCom.Runtime.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Modrinth.Net.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/SkiaSharp.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Tmds.DBus.Protocol.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-x64/native/av_libglesv2.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-x86/native/av_libglesv2.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/osx/native/libSkiaSharp.dylib
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/milol/Documents/C#/Jamkletip's Mod Manager/bin/Release/net9.0/publish/Jamkletip's Mod Manager.deps.json
