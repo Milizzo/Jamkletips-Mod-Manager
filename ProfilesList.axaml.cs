@@ -15,7 +15,7 @@ public partial class ProfilesList : UserControl
     {
         InitializeComponent();
 
-        if (Directory.Exists(MainWindow.ProfilesPath)) Directory.CreateDirectory(MainWindow.ProfilesPath);
+        if (!Directory.Exists(MainWindow.ProfilesPath)) Directory.CreateDirectory(MainWindow.ProfilesPath);
 
         var profiles = Directory.GetDirectories(MainWindow.ProfilesPath);
 
